@@ -1,5 +1,7 @@
+#create new simulator
 set ns [new Simulator]
 
+#color for different flow id 
 $ns color 1 Blue
 $ns color 2 Red
 
